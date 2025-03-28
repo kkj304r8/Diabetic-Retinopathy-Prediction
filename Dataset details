@@ -1,0 +1,8 @@
+The dataset contains 6000 records and 6 features, including a binary target variable (prognosis).
+
+- ID: Unique identifier for each patient (not useful for modeling).
+- age: Patient’s age.
+- systolic_bp: Systolic blood pressure.
+- diastolic_bp: Diastolic blood pressure.
+- cholesterol: Cholesterol level in the blood.
+- prognosis (Target Variable): Presence (1) or Absence (0) of Retinopathy.
